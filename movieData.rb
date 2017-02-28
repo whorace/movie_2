@@ -15,7 +15,7 @@ class ClassRating
     # read line by line
     sourceFile.each_line do |line|
       #puts line
-      arr=line.strip.split("\s")
+      arr=line.strip.split( "\s")
       #puts arr
       user_id = arr[0]
       movie_id = arr[1]
@@ -277,9 +277,10 @@ class Control
     puts "Test File is u1.test."
     vilidator = Validator.new("u1.base", "u1.test")
     puts "user_id is 1. movie_id is 6"
+    puts Time.now
     vilidator.runBase(1, 6)
     vilidator.runTest(1, 6)
-
+    puts Time.now
   end
 
 
