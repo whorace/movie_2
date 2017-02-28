@@ -6,13 +6,13 @@ Movie2(Ruby)
     This is my Ruby assignment in COSI166B course.
  
 ###Requirement
-    <http://cosi166b-s2017.s3-website-us-west-2.amazonaws.com/content/topics/pa/pa_movies_2.md/>
+<http://cosi166b-s2017.s3-website-us-west-2.amazonaws.com/content/topics/pa/pa_movies_2.md/>
 
 ###CodeClimate:
-    <https://codeclimate.com/github/whorace/movie_2/issues>
+<https://codeclimate.com/github/whorace/movie_2/issues>
 
 ###GitHub Repo:
-    <https://github.com/whorace/movie_2>
+<https://github.com/whorace/movie_2>
 
 ---
 
