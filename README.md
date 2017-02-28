@@ -13,7 +13,9 @@ https://codeclimate.com/github/whorace/movie_2/issues
 
 ###GitHub Repo:
 https://github.com/whorace/movie_2
-***
+
+---
+
 ###Algorithm:
 At first, I used the Cosine Similarity ( https://en.wikipedia.org/wiki/Cosine_similarity ) to get the similarity of each user. Xn is a movie_id. Yn is the corresponding rating of Xn.
 
@@ -26,7 +28,7 @@ the Cosine Similarity is very reliable.
 * Drawback:
 the accuracy will depend on the quantity of users. For example, we try to predict the User A’s rating about Movie A. If User A has many similar users with the closest similarity, we can easily get a similar user who has watched Movie A. Otherwise, if we cannot find a similar user who has watched it nearby, you have expanded the search scope and finally will find a user who has watched it but who has a big difference in the similarity with User A.
 
-***
+---
 
 ###Analysis:
 I think the method is very qualified and usable. The difference between the prediction and the real situation is very close.
