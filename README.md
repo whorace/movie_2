@@ -24,6 +24,7 @@ the Cosine Similarity is very reliable.
 
 * Drawback:
 the accuracy will depend on the quantity of users. For example, we try to predict the User A’s rating about Movie A. If User A has many similar users with the closest similarity, we can easily get a similar user who has watched Movie A. Otherwise, if we cannot find a similar user who has watched it nearby, you have expanded the search scope and finally will find a user who has watched it but who has a big difference in the similarity with User A.
+
 ***
 
 ###Analysis:
