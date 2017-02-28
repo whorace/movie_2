@@ -3,7 +3,9 @@
 ---
 
 By:Hao Wang (haowang@brandeis.edu)
+
 Time:1/31/2017
+
 This is my Ruby assignment in COSI166B course.
 
 
